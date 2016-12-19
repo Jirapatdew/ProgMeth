@@ -1,0 +1,53 @@
+Button	
+A graphical push button.
+
+Canvas	
+A heavyweight component that displays a blank canvas, allowing a program to display custom graphics.
+
+Checkbox	
+A toggle button that can be selected or unselected. Use the Checkbox group to enforce mutually exclusive or radio button behavior among a group of Checkbox components.
+
+CheckboxMenuItem	
+A toggle button that can appear within a Menu.
+
+Choice	
+An option menu or drop-down list. Displays a menu of options when clicked on and allows the user to select among this fixed set of options.
+
+Component	
+The base class for all AWT and Swing components. Defines many basic methods inherited by all components.
+
+FileDialog	
+Allows the user to browse the filesystem and select or enter a filename.
+
+Label	
+Displays a single line of read-only text. Does not respond to user input in any way.
+
+List	
+Displays a list of choices (optionally scrollable) to the user and allows the user to select one or more of them.
+
+Menu	
+A single pane of a pull-down menu
+
+MenuBar	
+A horizontal bar that contains pull-down menus.
+
+MenuComponent	
+The base class from which all menu-related classes inherit.
+
+MenuItem	
+A single item within a pull-down or pop-up menu pane.
+
+PopUpMenu	
+A menu pane for a pop-up menu.
+
+Scrollbar	
+A graphical scrollbar.
+
+TextArea	
+Displays multiple lines of plain text and allows the user to edit the text.
+
+TextComponent	
+The base class for both TextArea and TextField.
+
+TextField	
+Displays a single line of plain text and allows the user to edit the text.

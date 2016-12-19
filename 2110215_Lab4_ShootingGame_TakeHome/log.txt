@@ -1,0 +1,7 @@
+Width = 640
+Hight = 480
+Creation min delay = 100
+Creation max delay = 200
+Object min duration = 200
+Object max duration = 700
+Time Limit (sec) = 180
